@@ -1,0 +1,5 @@
+timestamp,system,space_type,radio,host_count,hosts,stream_size,insert_count,query_count,avg_ms,avg_distances,avg_operations,avg_candidate_nodes,avg_candidate_trees,http_req_per_query,max_tree_load_ratio,retrieved_per_query,db_recovered_pct,ocupation,failed,fail_reason,run_id
+2026-08-08T21:06:10Z,dli-satree,strings,1,1,127.0.0.1:8081,27631,24868,2763,7,5068,224,0.0000,0.0000,0.0000,0.0000,1,0.0040,48.3681,0,,dli-satree_strings_20260808T210610Z
+2026-08-08T21:06:10Z,dli-satree,strings,2,1,127.0.0.1:8081,27631,24868,2763,14,12486,368,0.0000,0.0000,0.0000,0.0000,16,0.0643,48.3681,0,,dli-satree_strings_20260808T210610Z
+2026-08-08T21:06:10Z,dli-satree,strings,3,1,127.0.0.1:8081,27631,24868,2763,17,17886,402,0.0000,0.0000,0.0000,0.0000,119,0.4785,48.3681,0,,dli-satree_strings_20260808T210610Z
+2026-08-08T21:06:10Z,dli-satree,strings,4,1,127.0.0.1:8081,27631,24868,2763,19,21360,413,0.0000,0.0000,0.0000,0.0000,588,2.3645,48.3681,0,,dli-satree_strings_20260808T210610Z
