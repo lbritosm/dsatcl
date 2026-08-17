@@ -1,0 +1,3 @@
+timestamp,system,space_type,arity,radio,host_count,hosts,stream_size,insert_count,query_count,avg_ms,avg_distances,avg_operations,avg_candidate_nodes,avg_candidate_trees,http_req_per_query,max_tree_load_ratio,retrieved_per_query,db_recovered_pct,ocupation,failed,fail_reason,run_id
+2026-08-17T20:59:13Z,dli-satree,vector_bin,4,0.120865,2,"sat-0.sat,sat-1.sat",100000,98000,2000,6,2099,176,0.0000,0.0000,0.0000,0.0000,11,0.0112,51.6777,0,,dli-satree_vector_bin_20260817T205913Z
+2026-08-17T20:59:13Z,dli-satree,vector_bin,4,0.199271,2,"sat-0.sat,sat-1.sat",100000,98000,2000,14,5406,378,0.0000,0.0000,0.0000,0.0000,117,0.1194,51.6777,0,,dli-satree_vector_bin_20260817T205913Z
